@@ -1,0 +1,14 @@
+C:\Users\JhonathanJhoel\Downloads\Parcial1Jca\Parcial1Lib\obj\Debug\net9.0\Parcial1Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JhonathanJhoel\Downloads\Parcial1Jca\Parcial1Lib\obj\Debug\net9.0\Parcial1Lib.AssemblyInfoInputs.cache
+C:\Users\JhonathanJhoel\Downloads\Parcial1Jca\Parcial1Lib\obj\Debug\net9.0\Parcial1Lib.AssemblyInfo.cs
+C:\Users\JhonathanJhoel\Downloads\Parcial1Jca\Parcial1Lib\obj\Debug\net9.0\Parcial1Lib.csproj.CoreCompileInputs.cache
+C:\Users\JhonathanJhoel\Downloads\Parcial1Jca\Parcial1Lib\bin\Debug\net9.0\Parcial1Lib.exe
+C:\Users\JhonathanJhoel\Downloads\Parcial1Jca\Parcial1Lib\bin\Debug\net9.0\Parcial1Lib.deps.json
+C:\Users\JhonathanJhoel\Downloads\Parcial1Jca\Parcial1Lib\bin\Debug\net9.0\Parcial1Lib.runtimeconfig.json
+C:\Users\JhonathanJhoel\Downloads\Parcial1Jca\Parcial1Lib\bin\Debug\net9.0\Parcial1Lib.dll
+C:\Users\JhonathanJhoel\Downloads\Parcial1Jca\Parcial1Lib\bin\Debug\net9.0\Parcial1Lib.pdb
+C:\Users\JhonathanJhoel\Downloads\Parcial1Jca\Parcial1Lib\obj\Debug\net9.0\Parcial1Lib.dll
+C:\Users\JhonathanJhoel\Downloads\Parcial1Jca\Parcial1Lib\obj\Debug\net9.0\refint\Parcial1Lib.dll
+C:\Users\JhonathanJhoel\Downloads\Parcial1Jca\Parcial1Lib\obj\Debug\net9.0\Parcial1Lib.pdb
+C:\Users\JhonathanJhoel\Downloads\Parcial1Jca\Parcial1Lib\obj\Debug\net9.0\Parcial1Lib.genruntimeconfig.cache
+C:\Users\JhonathanJhoel\Downloads\Parcial1Jca\Parcial1Lib\obj\Debug\net9.0\ref\Parcial1Lib.dll
